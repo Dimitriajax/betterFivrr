@@ -18,7 +18,7 @@ class PostsTableSeeder extends Seeder
     public function run()
     {
 
-        $json = Storage::disk('local')->get('/json/advertenties.json');
+        $json = Storage::disk('local')->get('public/json/advertenties.json');
         $posts = json_decode($json, true);
 
         foreach ($posts as $post) {

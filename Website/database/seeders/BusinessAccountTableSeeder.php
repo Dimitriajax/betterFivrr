@@ -18,7 +18,7 @@ class BusinessAccountTableSeeder extends Seeder
      */
     public function run()
     {
-        $json = Storage::disk('local')->get('/json/business.json');
+        $json = Storage::disk('local')->get('public/json/business.json');
 
         $buisnesses = json_decode($json, true);
 

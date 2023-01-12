@@ -17,7 +17,7 @@ class UserTableSeeder extends Seeder
      */
     public function run()
     {
-        $json = Storage::disk('local')->get('/json/freelancer.json');
+        $json = Storage::disk('local')->get('public/json/freelancer.json');
 
         $users = json_decode($json, true);
 
