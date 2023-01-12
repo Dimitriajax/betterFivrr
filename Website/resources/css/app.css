@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.grid-column-size {
+    grid-template-columns: 60% 40%;
+}
+
+.grid-column-size-diensten {
+    grid-template-columns: 65% 35%;
+}
+
+.grid-column-size-reviews {
+    grid-template-columns: 85% 15%;
+}
+
+.profile-divider {
+    margin: auto;
+    width: 80%;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+
+.no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+@font-face {
+    font-family: 'Poppins', sans-serif;
+    src: url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+}
+
+a {
+    cursor: pointer;
+}
+
+
+.no-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+
+.no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}

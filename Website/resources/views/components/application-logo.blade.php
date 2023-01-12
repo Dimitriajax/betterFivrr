@@ -1,0 +1,84 @@
+<svg id="Component_24_1" data-name="Component 24 – 1" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 438 442.971">
+    <circle id="Ellipse_18" data-name="Ellipse 18" cx="4" cy="4" r="4" transform="translate(106 290)" fill="#ec49c0" />
+    <circle id="Ellipse_19" data-name="Ellipse 19" cx="6.5" cy="6.5" r="6.5" transform="translate(43 333)" fill="#ec49c0" />
+    <circle id="Ellipse_20" data-name="Ellipse 20" cx="4" cy="4" r="4" transform="translate(262 91)" fill="#ec49c0" />
+    <circle id="Ellipse_21" data-name="Ellipse 21" cx="6" cy="6" r="6" transform="translate(290 19)" fill="#ec49c0" />
+    <circle id="Ellipse_22" data-name="Ellipse 22" cx="4.5" cy="4.5" r="4.5" transform="translate(355 49)" fill="#ec49c0" />
+    <circle id="Ellipse_25" data-name="Ellipse 25" cx="6.5" cy="6.5" r="6.5" transform="translate(425 225)" fill="#ec49c0" />
+    <circle id="Ellipse_26" data-name="Ellipse 26" cx="5.5" cy="5.5" r="5.5" transform="translate(340 400)" fill="#ec49c0" />
+    <circle id="Ellipse_27" data-name="Ellipse 27" cx="4" cy="4" r="4" transform="translate(377 343)" fill="#ec49c0" />
+    <circle id="Ellipse_28" data-name="Ellipse 28" cx="4" cy="4" r="4" transform="translate(421 300)" fill="#ec49c0" />
+    <circle id="Ellipse_29" data-name="Ellipse 29" cx="6.5" cy="6.5" r="6.5" transform="translate(109 129)" fill="#ec49c0" />
+    <circle id="Ellipse_30" data-name="Ellipse 30" cx="4.5" cy="4.5" r="4.5" transform="translate(52 88)" fill="#ec49c0" />
+    <circle id="Ellipse_31" data-name="Ellipse 31" cx="3.5" cy="3.5" r="3.5" transform="translate(100 39)" fill="#ec49c0" />
+    <circle id="Ellipse_32" data-name="Ellipse 32" cx="7.5" cy="7.5" r="7.5" transform="translate(156 19)" fill="#ec49c0" />
+    <circle id="Ellipse_33" data-name="Ellipse 33" cx="5" cy="5" r="5" transform="translate(223)" fill="#ec49c0" />
+    <circle id="Ellipse_36" data-name="Ellipse 36" cx="4" cy="4" r="4" transform="translate(0 276)" fill="#ec49c0" />
+    <circle id="Ellipse_37" data-name="Ellipse 37" cx="4" cy="4" r="4" transform="translate(18 210)" fill="#ec49c0" />
+    <circle id="Ellipse_38" data-name="Ellipse 38" cx="3.5" cy="3.5" r="3.5" transform="translate(13 146)" fill="#ec49c0" />
+    <line id="Line_4" data-name="Line 4" y1="77" x2="111" transform="translate(110.5 217.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <path id="Path_7" data-name="Path 7" d="M0,0,121,7" transform="translate(229.5 220.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_6" data-name="Line 6" y1="116" x2="42" transform="translate(222.5 95.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_7" data-name="Line 7" x2="83" y2="127" transform="translate(268.5 97.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_9" data-name="Line 9" y1="40" x2="151" transform="translate(115.5 95.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_10" data-name="Line 10" x2="98" y2="75" transform="translate(118.5 139.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_11" data-name="Line 11" x2="99" y2="69" transform="translate(51.5 340.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_12" data-name="Line 12" x2="39" y2="53" transform="translate(49.5 340.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_13" data-name="Line 13" x2="40" y2="115" transform="translate(110.5 294.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_14" data-name="Line 14" y1="46" x2="61" transform="translate(49.5 294.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_15" data-name="Line 15" x2="29" y2="128" transform="translate(20.5 211.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_16" data-name="Line 16" x2="47" y2="63" transform="translate(4.5 280.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_17" data-name="Line 17" y1="69" x2="16" transform="translate(4.5 211.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_18" data-name="Line 18" x1="14" y2="131" transform="translate(2.5 149.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_19" data-name="Line 19" x1="6" y1="68" transform="translate(16.5 149.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_20" data-name="Line 20" y1="122" x2="34" transform="translate(22.5 92.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_21" data-name="Line 21" y1="58" x2="40" transform="translate(16.5 91.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_22" data-name="Line 22" y1="79" x2="93" transform="translate(22.5 135.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_23" data-name="Line 23" x1="6" y2="155" transform="translate(109.5 139.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_24" data-name="Line 24" x2="87" y2="80" transform="translate(22.5 214.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_25" data-name="Line 25" x2="138" y2="52" transform="translate(114.5 294.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_26" data-name="Line 26" y1="62" x2="105" transform="translate(150.5 347.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_27" data-name="Line 27" x2="33" y2="125" transform="translate(222.5 224.5)" fill="none" stroke="#da56bb" stroke-width="3" />
+    <line id="Line_28" data-name="Line 28" y1="121" x2="100" transform="translate(255.5 225.5)" fill="none" stroke="#da56bb" stroke-width="3" />
+    <line id="Line_29" data-name="Line 29" x2="26" y2="116" transform="translate(355.5 231.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_30" data-name="Line 30" x2="123" transform="translate(258.5 347.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_31" data-name="Line 31" x2="24" y2="80" transform="translate(255.5 351.5)" fill="none" stroke="#da56bb" stroke-width="3" />
+    <line id="Line_32" data-name="Line 32" y1="76" x2="102" transform="translate(279.5 347.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_33" data-name="Line 33" x2="126" y2="12" transform="translate(150.5 411.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_34" data-name="Line 34" x2="64" y2="16" transform="translate(88.5 393.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_35" data-name="Line 35" x2="65" y2="32" transform="translate(148.5 409.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_36" data-name="Line 36" x1="60" y2="12" transform="translate(213.5 429.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_37" data-name="Line 37" x2="125" y2="48" transform="translate(88.5 393.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_38" data-name="Line 38" y1="21" x2="62" transform="translate(283.5 405.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_39" data-name="Line 39" y1="101" x2="80" transform="translate(345 304.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_40" data-name="Line 40" y1="42" x2="44" transform="translate(381.5 304.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_41" data-name="Line 41" x1="48" y2="116" transform="translate(381.5 231.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_42" data-name="Line 42" x1="8" y2="81" transform="translate(425.5 227.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <path id="Path_8" data-name="Path 8" d="M3,0,0,68" transform="translate(431.5 164.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_44" data-name="Line 44" x2="78" y2="4" transform="translate(355.5 227.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <path id="Path_9" data-name="Path 9" d="M0,0,41,126" transform="translate(390.5 109.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_46" data-name="Line 46" x2="75" y2="111" transform="translate(359.5 53.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_47" data-name="Line 47" x2="44" y2="56" transform="translate(390.5 109.5)" fill="none" stroke="#da56bb" stroke-width="3" />
+    <line id="Line_48" data-name="Line 48" x2="124" y2="18" transform="translate(266.5 91.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_49" data-name="Line 49" y1="73" x2="30" transform="translate(266.5 22.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_50" data-name="Line 50" x2="94" y2="83" transform="translate(296.5 26.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_51" data-name="Line 51" x2="63" y2="31" transform="translate(296.5 22.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_52" data-name="Line 52" x2="126" transform="translate(166.5 26.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_53" data-name="Line 53" x2="108" y2="70" transform="translate(158.5 25.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_54" data-name="Line 54" y1="19" x2="61" transform="translate(163.5 6.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_55" data-name="Line 55" x2="71" y2="16" transform="translate(228.5 6.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_56" data-name="Line 56" x2="58" y2="44" transform="translate(56.5 92.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_57" data-name="Line 57" x1="45" y2="104" transform="translate(118.5 31.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_58" data-name="Line 58" y1="66" x2="110" transform="translate(56.5 26.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <path id="Path_10" data-name="Path 10" d="M47,0,0,50" transform="translate(56.5 42.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <line id="Line_60" data-name="Line 60" x1="56" y2="14" transform="translate(103.5 27.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <circle id="Ellipse_14" data-name="Ellipse 14" cx="11.5" cy="11.5" r="11.5" transform="translate(210 209)" fill="#ec49c0" />
+    <circle id="Ellipse_15" data-name="Ellipse 15" cx="10.5" cy="10.5" r="10.5" transform="translate(343 217)" fill="#ec49c0" />
+    <ellipse id="Ellipse_17" data-name="Ellipse 17" cx="11.5" cy="11" rx="11.5" ry="11" transform="translate(268 415)" fill="#ec49c0" />
+    <circle id="Ellipse_16" data-name="Ellipse 16" cx="7" cy="7" r="7" transform="translate(248 340)" fill="#ec49c0" />
+    <line id="Line_8" data-name="Line 8" x1="35" y2="115" transform="translate(355.5 109.5)" fill="none" stroke="#ec49c0" stroke-width="3" />
+    <ellipse id="Ellipse_23" data-name="Ellipse 23" cx="3" cy="3.5" rx="3" ry="3.5" transform="translate(386.29 106.765) rotate(-13)" fill="#ec49c0" />
+    <circle id="Ellipse_24" data-name="Ellipse 24" cx="3.5" cy="3.5" r="3.5" transform="translate(431 161)" fill="#ec49c0" />
+    <circle id="Ellipse_35" data-name="Ellipse 35" cx="6" cy="6" r="6" transform="translate(83 386)" fill="#ec49c0" />
+    <circle id="Ellipse_34" data-name="Ellipse 34" cx="4.5" cy="4.5" r="4.5" transform="translate(146 405)" fill="#ec49c0" />
+</svg>
