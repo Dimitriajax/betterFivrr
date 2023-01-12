@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "company_name": "Google",
+        "address": "Melkweg 2, Groningen",
+        "zipcode": "9636 BA",
+        "country": "Nederland",
+        "sector": "IT",
+        "about": "We are a company that makes search engines and other cool stuff.",
+        "company_logo": "https://ssl.gstatic.com/images/branding/googleg/2x/googleg_standard_color_64dp.png",
+        "user_id": 7
+    },
+    {
+        "id": 2,
+        "company_name": "Spinnin' Records",
+        "address": "Steijnlaan 12, Hilversum",
+        "zipcode": "1217 JS",
+        "country": "Nederland",
+        "sector": "Muziek",
+        "about": "We are a company that makes music for everyone. We love the create a sound people love",
+        "company_logo": "https://i.scdn.co/image/ab67616d0000b2731cb6ccea5f81b0e4c9430598",
+        "user_id": 8
+    },
+    {
+        "id": 3,
+        "company_name": "RTL 4",
+        "address": "Barend en Van Dorpweg 2, Hilversum",
+        "zipcode": "1217 WP",
+        "country": "Nederland",
+        "sector": "Videografie",
+        "about": "RTL4 is een commerciële, Nederlandstalige televisiezender, met succesvolle programma's als Goede Tijden, Slechte Tijden, RTL Boulevard en RTL Nieuws.",
+        "company_logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/RTL4_Logo_2016.png",
+        "user_id": 9
+    },
+    {
+        "id": 4,
+        "company_name": "Meta",
+        "address": "1 Hacker Way, Menlo Park",
+        "zipcode": "CA 94025",
+        "country": "USA",
+        "sector": "IT",
+        "about" : "Related keylists. Meta Platforms Inc (Meta), formerly Facebook Inc, is a provider of social networking, advertising, and business insight solutions. The company, through its virtual-reality vision, the metaverse, focuses on developing virtual environment that allows people to interact and connect with technology.",
+        "company_logo": "https://mma.prnewswire.com/media/1673006/Meta_Logo.jpg?p=facebook",
+        "user_id": 10
+    },
+    {
+        "id": 5,
+        "company_name": "TUDC",
+        "address": "Turfsingel 36, Groningen",
+        "zipcode": "9712 KG",
+        "country": "Nederland",
+        "sector": "Dans",
+        "about" : "Wij bieden danslessen aan op verschillende niveaus. Je kan beginnen met een start les en daarna doorstromen naar de intermediate lessen of naar de advanced lessen. Iedere instructor heeft zijn eigen stijl van dansen, dus ga veel lessen proberen zodat jij erachter komt wat het beste bij jou past! Plezier en uitdaging staat bij ons voorop!",
+        "company_logo" : "https://images.squarespace-cdn.com/content/v1/5b04f4cf506fbe7ea6c04e69/1534422235083-8MEMOCFA4BJ4VO37LU1K/TUDC-event.jpg",
+        "user_id": 11
+    }
+]
